@@ -1,0 +1,49 @@
+li{
+    display: inline-block;
+    padding: 10px;
+    padding-top: 5px;;
+}
+a{
+    text-decoration: none;
+    font-style: normal;
+    color: rgba(146, 147, 151, 0.836);
+}
+a:hover{
+    color: rgb(56, 56, 165);
+}
+.right-nav{
+    float:right;
+}
+#main{
+    margin: auto;
+    width: 50%;
+    position: relative;
+    padding-top: 12%;
+    padding-left: 15%;
+    padding-right: 20%;
+    text-align: center;
+}
+#google-img{
+    padding: 10px;
+    margin: 5px;
+    height: 130px;
+}
+#google-text{
+    width: 480px;
+    height: 35px;
+    border-width: 1px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    font-size: 16px;
+    padding-left: 20px;
+}
+.search-bar{
+    display: inline;
+    margin: 10px;
+    padding: 5px 20px 5px 20px;
+    border:rgb(175, 175, 175);
+    border-width: 1px;
+    border-style:solid;
+    background-color: rgb(219, 219, 219);
+    color: rgb(104, 104, 104);
+}
